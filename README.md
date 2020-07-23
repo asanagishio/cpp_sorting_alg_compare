@@ -7,7 +7,9 @@ Usage: Generate n variables within a range and perform sorting,
 meanwhile return an execution time for each selected sorting method.
 
 Implemented sorting algorithm: 
- (1). Selection sort   (2). Insertion sort   (3). Bubble sort
+ (1). Selection sort
+ (2). Insertion sort
+ (3). Bubble sort
  (4). Quick sort (recursive versions)
  (5). Quick sort (non-recursive versions)
  (6). Merge sort (recursive versions)
